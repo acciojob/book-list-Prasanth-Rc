@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+ body {
+      padding: 20px;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    .table {
+      margin-top: 20px;
+    }
